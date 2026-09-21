@@ -1,0 +1,14 @@
+node_modules/
+.runtime/
+backups/
+study-sessions/
+lesson-settings/
+translation-cache/
+learner-profile.md
+study-launcher.json
+chat-settings.json
+.env
+.env.*
+*.bak
+*.log
+*.tmp
